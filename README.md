@@ -13,3 +13,11 @@ This is an open-ended problem so you can design it however you wish.  However, h
 ## Testing
 
 This project has been enabled with Junit5.  Your goal is to reach 100% test coverage
+
+JackInTheBox Class
+
+Actions
+Open
+Close
+TurnCrank
+PlayMusic
