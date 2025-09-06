@@ -31,7 +31,7 @@ class JackInTheBoxTest {
     void close_Should_Throw_JackInTheBoxIsAlreadyClosed_Exception_If_Already_Closed(){
         JackInTheBox box = new JackInTheBox();
         assertThrows(JackInTheBoxIsAlreadyClosed.class, box::close);
-    }
+}
 
     @Test
     void crank_Should_Increment_Number_Of_Cranks() {

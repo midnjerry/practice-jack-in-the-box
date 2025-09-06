@@ -1,7 +1,9 @@
 import Exceptions.JackInTheBoxIsAlreadyClosed;
 import Exceptions.JackInTheBoxIsAlreadyOpened;
 
+
 public class JackInTheBox {
+
     public static final int CRANKS_TO_OPEN = 3;
     private int numberOfCranks;
     private boolean isOpen;
